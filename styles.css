@@ -1,0 +1,19 @@
+h1 {
+  color: FF0000;
+}
+
+h2 {
+  font-style: oblique;
+  text-align: justify;
+  font-style: italic;
+}
+
+p {
+  font-family: fantasy;
+  font-size: 20px;
+}
+
+ul {
+  line-height: normal;
+  font-size: 30px; 
+}
